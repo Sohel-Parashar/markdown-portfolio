@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+# hear i slist of my fev things
+- ling box
+- disco
+- open source
+- github
